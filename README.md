@@ -1,4 +1,4 @@
-# StupidFailsBot
+# FailsBot
 This is a rough draft version of Telegram @FailsBot (now it's temporarily disabled). These sources are incomplete and very dirty.
 
 # Compiling
@@ -14,9 +14,9 @@ Just `make` it.
 * Experimental chat moderation support (merge messages and move to another chats);
 * And another!
 
-# What you won't see this
+# What you won't see here
 * Good and stable code;
 * Normal architecture (but if it will be, I will contribute to another library);
 * Normal docs (if it will be, I remove that paragraph);
-* Multi-threading (unless I'll make the network transport upon curl_shared_\* subset);
+* Multi-threading (unless I'll make the network transport upon curl\_shared\_\* subset);
 * Good code style.
